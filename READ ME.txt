@@ -1,8 +1,0 @@
-1. Extract the folder.
-2. Install all the dependencies of requirement files.
-3. In AI folder run AI server.py file.
-4. Attach the arduino with your system.
-6. In MERN folder run front end and backend.
-7. For front end "npm run start" will be used to run frontend server.
-8. For backend "npm run server" will be used to start backend server.
-9. Congratulations you application is ready to use.
