@@ -1,0 +1,26 @@
+.management {
+    
+    background: rgb(255, 255, 255);
+    color:white;
+    align-items: center;
+    text-align: center;
+    margin: 200px;
+}
+h2 {
+    font: size 0.75em;
+    font-weight: 500;
+    padding-bottom: 10px;
+    color: #fff;
+    background: #21c2b4 ;
+    text-align: center;
+  }
+  
+  .view{
+    color:#fff;
+  }
+  .button{
+    font-size: 9px;
+    font-weight: bold;
+    padding: 2px;
+    margin: 2px;
+  }

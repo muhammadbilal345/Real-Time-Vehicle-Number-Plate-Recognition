@@ -1,0 +1,20 @@
+.management {
+    
+  background: rgb(255, 255, 255);
+  color:white;
+  align-items: center;
+  text-align: center;
+  margin: 200px;
+}
+h2 {
+  font-size: 28px;
+  font-weight: 600;
+  padding-bottom: 10px;
+  color: #fff;
+  background: #21c2b4 ;
+  text-align: center;
+}
+
+.view{
+  color:#fff;
+}

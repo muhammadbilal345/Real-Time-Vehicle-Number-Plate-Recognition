@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100&display=swap");
+.home {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(90deg, #effaff 0%, #d9e7ff 100%);
+  }
+  p{
+    margin:30px;
+    padding:.4rem 1rem;
+    color:rgb(0, 0, 0);
+    font-size: 1.25rem;
+    font-weight: 100px;
+    line-height: 1.5em;
+  }
+  h1 {
+    font-size: 48px;
+    font-weight: 800;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+  }
+  
+  h4 {
+  
+    border-radius: 6px;
+    font-size: 22px;
+    letter-spacing: 2px;
+    color: rgb(0, 0, 0);
+  }
+  p{
+    font-size: medium;
+  }
+  .hero {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    background:url(https://biometricheadlines.com/wp-content/uploads/2022/06/Number-Plate-recognition-1024x525.png) no-repeat;
+    background-size: cover;
+    background-position: center;
+ 
+  }
+  
+
+  
